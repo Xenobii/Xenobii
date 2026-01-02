@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**Xenobii/Xenobii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stelios Alvanos, a first year PhD student at the Democritus University of Thrace under the supervision of [Nikos Mitianoudis](https://utopia.duth.gr/nmitiano/) and a research associate at the Athena Research Center. My research topic is deep learning applications in audio and I am especially interested in Music Information Retrieval (MIR).
 
-Here are some ideas to get you started:
+# Projects I am currently participating in 
+- [**TEXTaiLES**](https://github.com/TEXTaiLES): Currently participating in WP5 and WP6. Main contributor of the [THOTH](https://github.com/TEXTaiLES/THOTH) 3D viewer/annotator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Publications
+Working on it
+
+# Contact 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steliosalvanos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stelios-alvanos-35267227a/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/218058479858876426)
