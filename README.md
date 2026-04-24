@@ -2,7 +2,7 @@
 
 I'm Stelios Alvanos, a first year PhD student at the [Democritus University of Thrace](https://www.ee.duth.gr/en/) under the supervision of [Nikos Mitianoudis](https://utopia.duth.gr/nmitiano/) and a research associate at the [Athena Research Center](https://www.athenarc.gr/). My research topic is deep learning applications in audio and I am especially interested in Music Information Retrieval (MIR). 
 
-My current research involves Automatic Music Transcription using Nonnegative Matrix Factorization and Deep Neural Networks.
+My current research involves Automatic Music Transcription using Denoising Diffusion Bridges.
 
 # Current Projects
 
